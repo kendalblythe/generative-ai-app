@@ -51,7 +51,7 @@ After you clone the Git repository, you can run the following
 
 ### Download Ollama LLMs
 - See models here: https://ollama.com/library
-- The project <a href="">.env.example</a> file references the following models
+- The project <a href="https://github.com/kendalblythe/generative-ai-app/blob/main/.env.example#L1">.env.example</a> file references the following models
   - <a href="https://ollama.com/library/phi3">Phi-3</a>
   - <a href="https://ollama.com/library/llama3">Meta Llama 3</a>
 - `ollama run phi3`
