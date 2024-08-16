@@ -9,6 +9,11 @@ This project initially includes a chatbot that can respond to user prompts. Futu
 - Image generation
 - Image analysis
 
+## Chat with Google Gemini Pro
+
+The Generative AI App is deployed here.
+- https://generative-ai-react-app.vercel.app/
+
 ## Technologies
 
 - <a href="https://reactjs.org/">React</a>
